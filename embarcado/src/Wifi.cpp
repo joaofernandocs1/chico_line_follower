@@ -1,8 +1,8 @@
 /*#include <Arduino.h>
 #include <WiFi.h>
 
-char ssid[] = "Roberto"; // "PC CASA" //"VIVO-EC58" // "Roberto" // "REDE JOAO"
-char senha[] = "123gio123"; // "D0C6G01431" //"74ceJdRMP4" // "123gio123" // "jo@o1234"
+char ssid[] = "myssid"
+char senha[] = "mypassword"
 
 WiFiServer server(80);
 
