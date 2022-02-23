@@ -151,8 +151,8 @@ boolean Dir;
 
 // WI FI
 
-char ssid[] = "VIVO-EC58"; // "PC CASA" //"VIVO-EC58" // "Roberto" // "REDE JOAO"
-char senha[] = "74ceJdRMP4"; // "D0C6G01431" //"74ceJdRMP4" // "123gio123" // "jo@o1234"
+char ssid[] = "myssid"
+char senha[] = "mypassword"
 
 WiFiServer servidor(80);
 WiFiClient cliente;

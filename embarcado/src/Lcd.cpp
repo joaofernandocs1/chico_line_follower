@@ -8,8 +8,8 @@ LiquidCrystal lcd(19, 18, 5, 17, 16, 4);
 
 // CONFIGS WIFI
 
-char ssid[] = "PC CASA"; // "PC CASA" // "VIVO-EC58" // "Roberto" // "REDE JOAO"
-char senha[] = "D0C6G01431"; // "D0C6G01431" // "74ceJdRMP4" // "123gio123" // "jo@o1234"
+char ssid[] = "myssid"
+char senha[] = "mypassword"
 
 String endIP;
 String endBT = "endServBT";
